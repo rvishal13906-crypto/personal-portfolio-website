@@ -18,6 +18,8 @@ A simple portfolio website built with HTML and CSS.
 
 Open the home page in your browser to view the portfolio.
 
+
+
 ## Author
 
 Vishal
